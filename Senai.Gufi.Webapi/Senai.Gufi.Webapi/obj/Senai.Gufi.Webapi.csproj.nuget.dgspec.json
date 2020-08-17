@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aleli\\OneDrive\\Documentos\\Arquivos-DS-Senai\\2º semestre\\sprint 1\\sprint1-bd-Gufi-manha\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi.csproj": {}
+    "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\senai-backend-Gufi-AlexandreLima\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aleli\\OneDrive\\Documentos\\Arquivos-DS-Senai\\2º semestre\\sprint 1\\sprint1-bd-Gufi-manha\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi.csproj": {
+    "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\senai-backend-Gufi-AlexandreLima\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aleli\\OneDrive\\Documentos\\Arquivos-DS-Senai\\2º semestre\\sprint 1\\sprint1-bd-Gufi-manha\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi.csproj",
+        "projectUniqueName": "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\senai-backend-Gufi-AlexandreLima\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi.csproj",
         "projectName": "Senai.Gufi.Webapi",
-        "projectPath": "C:\\Users\\aleli\\OneDrive\\Documentos\\Arquivos-DS-Senai\\2º semestre\\sprint 1\\sprint1-bd-Gufi-manha\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi.csproj",
+        "projectPath": "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\senai-backend-Gufi-AlexandreLima\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi.csproj",
         "packagesPath": "C:\\Users\\aleli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aleli\\OneDrive\\Documentos\\Arquivos-DS-Senai\\2º semestre\\sprint 1\\sprint1-bd-Gufi-manha\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\obj\\",
+        "outputPath": "C:\\Users\\aleli\\OneDrive\\Documentos\\Senai 2º semestre\\Projetos\\senai-backend-Gufi-AlexandreLima\\Senai.Gufi.Webapi\\Senai.Gufi.Webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\aleli\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -78,7 +80,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[2.1.9, )"
+              "version": "[2.1.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -99,7 +101,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
